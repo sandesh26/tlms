@@ -1,0 +1,6 @@
+{
+  "name": "Rosenberger TLMS - Tool Lifetime Management System",
+  "description": "Industrial tool lifetime management system for Rosenberger Interconnect to monitor tool lifespans, shift-wise consumption, overrides, and replacements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
